@@ -20,7 +20,7 @@ El sistema ofrece funcionalidades para:
 
 ### 3. Diagrama de Entidad-Relación (ERD)
 Se incluye un diagrama profesional que representa:
-- Las relaciones entre las tablas principales y sus dependencias.
+- Las relaciones entre las tablas.
 - Llaves primarias y foráneas para asegurar integridad referencial.
 - Una visión clara de la estructura general de la base de datos.
 
@@ -47,7 +47,6 @@ Se especificaron tipos de datos optimizados para cada atributo, asegurando consi
 ### 6. Consideraciones Técnicas
 - **Normalización**: La base de datos está completamente normalizada para evitar redundancias.
 - **Integridad referencial**: Todas las claves foráneas están definidas para garantizar la consistencia entre tablas.
-- **Flexibilidad**: El diseño permite añadir nuevas categorías o atributos sin afectar las relaciones existentes.
 
 ### 7. Aplicación del Proyecto
 Este sistema está pensado para:
@@ -58,12 +57,3 @@ Este sistema está pensado para:
   - Estratégico: Predicciones y decisiones basadas en tendencias del mercado.
 
 ---
-
-Este repositorio incluye:
-- **El archivo PDF** con el modelo ERD y una descripción técnica completa.
-- **Scripts SQL** para implementar las tablas y poblarlas con datos de prueba.
-- **Documentación adicional** sobre la metodología y los resultados obtenidos.
-
----
-
-Espero que esta descripción sea justo lo que necesitas para tu README. Si hay algo que quieras ajustar o incluir, ¡solo avísame! 🚀
