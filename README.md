@@ -7,7 +7,7 @@ Este repositorio contiene la implementación de un sistema de base de datos rela
 ## Contenido del Proyecto
 
 ### Link al documento Word editable que se pide en la consigna del proyecto
-### https://1drv.ms/w/c/86865b5012ac551c/EcK1UR3rMbBCpUASGEsGtgYBtLO0Y6uxuq9yPrGMCBvPYA?e=kyzUuQ
+### https://1drv.ms/w/c/86865b5012ac551c/ETcnE2i-ciRMtIdpOopz5HcB7w2ja4jVZmTGMNrxLf5FmA?e=ygw6bb
 
 ### 1. Objetivo del Proyecto
 El objetivo principal fue crear una base de datos que permita:
